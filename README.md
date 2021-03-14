@@ -1,1 +1,2 @@
 # Hoptel-App
+Ein Hotel will eine Anwendung haben, damit es das Verhalten der Gäste besser beobachten kann. Jeder Gast hat ein Vorname, Nachname und eine Liste von Reservierungen.Jede Reservierung hat ein oder mehrere Gäste, ein Zimmer und ein Zeitraum.Jedes Zimmer hat eine Nummer, eine Anzahl von möglichen Gästen, ein Preis, eine Farbe und kann ein Meerblick haben oder nicht. Man kann auch sehen, wenn es frei ist.Ein Gast kann mehrere male zum Hotel kommenund es gibt mögliche Gäste, die noch keine Reservierungen haben.
