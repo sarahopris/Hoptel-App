@@ -1,0 +1,9 @@
+1/2/50/blue/yes/available/
+2/4/120/pink/no/available/
+3/3/100/red/no/available/
+4/5/200/yellow/yes/available/
+5/3/120/pink/no/available/
+6/4/140/white/yes/available/
+7/3/120/blue/yes/available/
+8/3/300/blue/yes/available/
+9/4////available/
